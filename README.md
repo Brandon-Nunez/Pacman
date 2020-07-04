@@ -1,0 +1,2 @@
+# Pacman
+ Se elabora un personaje que imita la forma de 'Pacman' usando la función arc de p5js. - La figura imita el movimiento de 'Pacman' al abrir y cerrar la boca de manera repetida. Haga uso de variables y funciones periódicas (por ejemplo: seno/coseno) para modificar el ángulo de inicio y fin. - El personaje se desplaza en la dirección que el usuario desee al presionar las flechas del teclado.
